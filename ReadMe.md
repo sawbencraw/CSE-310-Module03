@@ -6,13 +6,11 @@ The software is a simple yet engaging RPG game where the player controls a hero 
 
 This project was a great opportunity to solidify my understanding of Java syntax and its object-oriented capabilities, as well as to practice implementing more complex features such as file I/O and the use of interfaces.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 To develop this software, I used the following tools and environments:
 
-- **IDE:** IntelliJ IDEA
+- **IDE:** Visual Studio Code
 - **Programming Language:** Java
 - **Libraries:** Java Standard Library (util, io)
 
